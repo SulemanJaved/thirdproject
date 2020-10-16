@@ -1,3 +1,3 @@
 Hello third
-
+updated for reset comand
 new changes
